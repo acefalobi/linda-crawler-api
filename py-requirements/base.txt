@@ -1,0 +1,16 @@
+Django==2.0.2
+
+# PostgresSQL
+psycopg2==2.7.5
+
+# Scheduling
+schedule==0.5.0
+django_cron==0.5.1
+
+# Scraper
+beautifulsoup4==4.7.1
+
+requests==2.19.1
+
+# Rest Framework
+djangorestframework==3.8.2
